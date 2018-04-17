@@ -1,4 +1,4 @@
-# webpak-react-es-babel
+# webpak-react-es6-babel
 webpak-react-es-babel
 React is mostly used for creating Single Page Applications. But it’s possible to integrate the library into any website by using Webpack and Babel.
 
